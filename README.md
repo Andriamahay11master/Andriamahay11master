@@ -14,16 +14,16 @@ I'm enthusiastic about writing clean, efficient code and collaborating with tale
 
 ## 🧰 Areas of Interest
 
-# AI & Machine Learning
+### AI & Machine Learning
 Python · TensorFlow · PyTorch · Scikit-learn · Generative AI · LLMs
 
-# Data
+### Data
 Python · SQL · Data Analysis · Data Engineering · Data Visualization
 
-# Frontend Development
+### Frontend Development
 React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
 
-# Tools & Technologies
+### Tools & Technologies
 Git · GitHub · Firebase · REST APIs · Vite · Docker
 
 ## 💻 Tech Stack

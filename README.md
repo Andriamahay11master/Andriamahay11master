@@ -1,6 +1,6 @@
 # Hi, I'm Mahay! 👋
 
-Welcome to my GitHub profile! I'm a passionate AI Engineer / Front-end developer dedicated to creating impactful software solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate AI & Software Engineer with a multidisciplinary background spanning Artificial Intelligence, Data, and Front-end Development. I enjoy turning ideas into practical, scalable, and user-friendly solutions while continuously exploring new technologies.
 
 ## 🚀 About Me
 
@@ -11,6 +11,20 @@ I'm enthusiastic about writing clean, efficient code and collaborating with tale
 - 💡 Passionate about open-source contributions
 - 🎯 Focused on building scalable and user-friendly applications
 - 📫 Feel free to reach out and connect with me!
+
+## 🧰 Areas of Interest
+
+# AI & Machine Learning
+Python · TensorFlow · PyTorch · Scikit-learn · Generative AI · LLMs
+
+# Data
+Python · SQL · Data Analysis · Data Engineering · Data Visualization
+
+# Frontend Development
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+
+# Tools & Technologies
+Git · GitHub · Firebase · REST APIs · Vite · Docker
 
 ## 💻 Tech Stack
 
